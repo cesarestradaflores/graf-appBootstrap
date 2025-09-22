@@ -3,4 +3,4 @@
 ## Graficación
 ### 2.1 Frameworks para diseño Web
 ### Autor: César Estrada Flores
-### Fecha Entrega: 1 septiembre 2025
+### Fecha Entrega:  Septiembre 2025
